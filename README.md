@@ -17,7 +17,7 @@
 
 ## ✨ Sobre mim
 
-- 🎨 **Frontend Developer** apaixonado por tecnologia, UI/UX e experiências digitais marcantes.
+- 🎨 **Frontend Developer** apaixonado por tecnologia e experiências digitais marcantes.
 - 🚀 Transformo ideias em interfaces interativas, responsivas e modernas.
 - 📚 Sempre em busca de aprender novas tecnologias e criar projetos inovadores.
 - 🗨️ Curto trocar conhecimento e contribuir com a comunidade dev.
