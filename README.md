@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Renato Gomes 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=3f72af&size=30&center=true&vCenter=true&width=700&lines=Desenvolvedor+Frontend;Apaixonado+por+UI/UX;Criando+interfaces+incríveis;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=3f72af&size=30&center=true&vCenter=true&width=700&lines=Desenvolvedor+Frontend;Apaixonado+por+Tecnologias;Criando+interfaces+incríveis;Bem-vindo+ao+meu+GitHub!" alt="Typing SVG" />
 </p>
 
 <div align="center">
